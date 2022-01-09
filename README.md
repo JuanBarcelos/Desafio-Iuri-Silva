@@ -2,7 +2,7 @@
 
 O desafio era desenvolver uma página de “blog” responsiva com listagem de posts.
 
-Utilizei HTML e CSS para resolver este desafio, com o intuito de praticar os meus fundamentos. Vou implementar um banco de dados e para treinar meu backend.
+Utilizei HTML e CSS para resolver este desafio, com o intuito de praticar os meus fundamentos e alicerçar meus conhecimentos.
 
-![Codelandia](https://github.com/JuanBarcelos/Desafio-Iuri-Silva/blob/main/Desafio%2001/img/CodeLandia.png?raw=true)
-![Codelandia0](https://github.com/JuanBarcelos/Desafio-Iuri-Silva/blob/main/Desafio%2001/img/CodeLandia0.png?raw=true)
+![Codelandia](https://github.com/JuanBarcelos/Desafio01-Iuri-Silva/blob/main/img/CodeLandia.png?raw=true)
+![Codelandia0](https://github.com/JuanBarcelos/Desafio01-Iuri-Silva/blob/main/img/CodeLandia0.png?raw=true)
