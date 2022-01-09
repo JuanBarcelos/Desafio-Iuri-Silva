@@ -6,7 +6,6 @@
 }
 
 .container{
-    width: 100vw;
     height: 15.62rem;
     background: linear-gradient(90deg, rgba(87,74,224,1) 35%, rgba(62,161,219,1) 100%);
     display: flex;
