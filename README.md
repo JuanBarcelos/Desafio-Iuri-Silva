@@ -14,4 +14,4 @@ Neste desafio meu objetivo era criar uma API e consumir, esta API no frontend as
  - CSS
 
 
-[!VIDEO](https://drive.google.com/file/d/1vjj_qDq6WkwWkPWEK5IMTkGr-qKHWjdh/view?usp=sharing)
+[VIDEO](https://drive.google.com/file/d/1vjj_qDq6WkwWkPWEK5IMTkGr-qKHWjdh/view?usp=sharing)
