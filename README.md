@@ -2,7 +2,16 @@
 
 O desafio era desenvolver uma página de “blog” responsiva com listagem de posts.
 
-Utilizei HTML e CSS para resolver este desafio, com o intuito de praticar os meus fundamentos e alicerçar meus conhecimentos.
 
-![Codelandia](https://github.com/JuanBarcelos/Desafio01-Iuri-Silva/blob/main/img/CodeLandia.png?raw=true)
-![Codelandia0](https://github.com/JuanBarcelos/Desafio01-Iuri-Silva/blob/main/img/CodeLandia0.png?raw=true)
+Neste desafio meu objetivo era criar uma API e consumir, esta API no frontend assim treinando os conceitos do React e Node, tambem evoluindo minhas habilidade e conceitos de desenvolvedor Full Stack.
+
+## 🛠️ Ferramentas utilizadas
+
+ - React
+ - Node
+ - TypeScript
+ - CSS
+
+
+>[!VIDEO](https://video.tv.adobe.com/v/29770/?quality=12)
+
