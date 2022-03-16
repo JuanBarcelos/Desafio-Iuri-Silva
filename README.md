@@ -9,7 +9,7 @@ Neste desafio meu objetivo era criar uma API e consumir, esta API no frontend as
  - TypeScript
  - CSS
 
-![Alt Text](https://github.com/JuanBarcelos/Desafio01-Iuri-Silva/blob/main/React%20App.gif)
+![Alt Text](https://github.com/JuanBarcelos/Desafio-Iuri-Silva/blob/main/desafio-blog/React%20App.gif)
 
 # DESAFIO-02 CodeLandia JordanShoes
 
@@ -21,5 +21,5 @@ Neste desafio meu objetivo era trinar meus conhecimentos de HTML semantico e CSS
  - CSS
 
 
-![Alt Text](https://github.com/JuanBarcelos/Desafio01-Iuri-Silva/blob/main/React%20App.gif)
+![Alt Text](https://github.com/JuanBarcelos/Desafio-Iuri-Silva/blob/main/JordanShoes/Jordan%20Shoes.gif)
 
