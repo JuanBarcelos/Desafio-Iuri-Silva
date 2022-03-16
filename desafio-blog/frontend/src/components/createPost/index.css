@@ -1,0 +1,47 @@
+.content-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 57.2vh;
+}
+form{
+   display: flex;
+   flex-direction: column;   
+}
+label{
+    font-family: 'Inter', sans-serif;
+    color: rgba(62,161,219,1);
+    font-weight: normal;
+    font-size: 18px;
+}
+input, textarea{
+    font-family: 'Inter', sans-serif;
+    font-weight: normal;
+    font-size: 18px;
+    width: 80vw;
+    height: 2rem;
+    margin-bottom: 1rem;
+}
+input:focus,
+textarea:focus{
+    border-color: rgba(62,161,219,1);
+    outline: none;
+}
+textarea{
+    height: 10rem;
+}
+button{
+    border: none;
+    border-radius: 50px;
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(90deg, rgba(87,74,224,1) 35%, rgba(62,161,219,1) 100%);
+    font-weight: bold;
+    color: #ffff;
+    font-size: 16px;
+    height: 2rem;
+}
+button:hover{
+    transform: translateX(5px) translateY(5px);
+    transition: 0.5s;
+}
